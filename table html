@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1" width="50%"  cellspacing="0" cellpadding="5">
+        <tr>
+            <th>Name</th>
+            <th>Roll no</th>
+            <th> Address</th>
+        </tr>
+        <tr>
+            <td>Ajay</td>
+            <td>101</td>
+            <td>Indore</td> 
+        </tr>
+        <tr>
+            <td>Vijay</td>
+            <td>102</td>
+            <td>Bhopal</td>
+        </tr>
+        <tr>
+            <td>Total</td>
+            <td>2</td>
+        </tr>
+    </table>
+</body>
+</html>
