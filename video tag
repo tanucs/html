@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+<p>Adding Video Tag</p>
+
+<video width="400" height="350" controls>
+
+<source src=“a.mp4" type="video/mp4">
+
+<source src=“b.ogg" type="video/ogg">
+
+</video>
+
+</body>
+
+</html>
