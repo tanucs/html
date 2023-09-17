@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title> Login form</Form></title>
+</head>
+<body>
+    <form method="POST">
+        Pattern<input type="text" pattern="pp@3.30" readonly>
+        Name<input type="text"  name="nm" required="" autofocus="" placeholder="Enter your name" disabled="">
+        password<input type="password" name="pass" minlength="5" maxlength="10" value="poonam@123">
+        <input type="submit" value="login" name="btnlogin">
+</form>
+
+</body>
+</html>
