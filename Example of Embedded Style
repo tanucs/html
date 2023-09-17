@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<style type="text/css">
+
+body { background-color: powderblue; }
+
+h1 {
+
+color: black;
+
+font-family: arial; }
+
+p {
+
+color: yellow;
+
+font-family: verdana; }
+
+</style> </head>
+
+<body>
+<h1>Example of Embedded Style</h1>
+
+<p>First paragraph.</p>
+
+</body> </html>
