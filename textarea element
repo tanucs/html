@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <meta charset="UTF-8">
+<title> HTML Form Textarea Attribute </title> </head>
+<body>
+<h2>Textarea</h2>
+<p>The textarea element defines a multi-line input field.</p>
+<form action="action-page.php">
+<textarea name="message" rows="5" cols="60"> This is a simple Example of
+Textarea. </textarea>
+<br>
+<input type="submit">
+</form> </body> </html>
