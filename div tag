@@ -1,0 +1,28 @@
+<html>
+
+<head>
+<title>Division tag example</title>
+
+<style type=text/css>
+
+P{ background-color:gray;
+
+margin: 10px; }
+
+div
+
+{ color: white;
+
+background-color: Blue;
+
+margin: 2px;
+
+font-size: 25px; }
+
+</style> </head>
+
+<body> <div > division1</div> <div > division2</div>
+
+<div > division3</div>
+
+</body></html>
