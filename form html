@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Signup Form</title>
+</head>
+<body>
+    <form method="POST" action="">
+        pattern<input type="text"name="" pattern="Acropolis" placeholder="Enter your pattern">
+        Name <input type="text" name="a" required="" placeholder="Enter your name"></br>
+        Password <input type="password" name="b" required=""  minlength="5" maxlength="10"></br>
+        Email<input type="email" name="" readonly=""></br>
+        Date of birth<input type="date" name="" disabled=""></br>
+        Time<input type="time" name=""></br>
+        Mobile no<input type="text" name="" autofocus></br>
+        Number<input type="number" name="" value="4368732673526"><br/>
+        Color<input  type="color" name=""></br>
+        Address <textarea></textarea></br>
+        Gender<input type="radio" name="a"> Male <input type="radio" name="a"> Female <br/>
+        Hobbies:<input type="checkbox">cricket
+        <input type="checkbox">singing
+        <input type="checkbox"> cooking <br/>
+        file:<input type="file" name=""><br/>
+        <select name="" multipart=""><option value="ind">Indore</option>
+            <option> bhopal</option>
+            </select><br/><br/>
+           
+            <input type="submit" name="s" value="signup"><br/>
+         
+
+
+
+
+
+
+
+    </form>
+</body>
+</html>
