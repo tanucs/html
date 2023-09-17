@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+<h2> HTML nav Tag</h2>
+
+<!-- nav tag starts -->
+
+<nav>
+
+<a href="#">Home</a> |
+
+<a href=“#'>about</a> |
+
+<a href="#">Languages</a> |
+
+<a href="#">Data Structure</a> |
+
+<a href="#">Algorithm</a>
+
+</nav>
+
+<!-- nav tag ends -->
+
+</body> </html>
